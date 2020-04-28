@@ -10,4 +10,8 @@ class Dog
   def breed
     @breed
   end
+
+  def breed=(pitbull)
+    @breed = pitbull
+  end
 end
