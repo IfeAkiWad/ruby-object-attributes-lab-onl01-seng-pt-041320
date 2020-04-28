@@ -6,4 +6,8 @@ class Dog
   def name=(airbud)
     @name = airbud
   end
+
+  def breed
+    @breed
+  end
 end
