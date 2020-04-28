@@ -6,4 +6,12 @@ class Person
   def name=(susan)
     @name = susan
   end
+
+  def job
+    @job
+  end
+
+  def job=(teacher)
+    @job = teacher
+  end
 end
